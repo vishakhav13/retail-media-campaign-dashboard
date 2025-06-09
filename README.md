@@ -29,7 +29,10 @@ Built an executive Tableau dashboard to visualize:
 - Cost per Acquisition (CPA)
 
 ## 🖼️ Dashboard Preview
-[Upload image here — screenshot of your Tableau dashboard]
+## 🖼️ Dashboard Preview  
+![Retail Media Campaign Optimization](https://github.com/user-attachments/assets/5614cf91-93c7-4f04-93b8-e5f0ae0e387a)
+
+
 
 ## 📁 Data Source
 Simulated dataset inspired by real-world retail media campaign structures.
